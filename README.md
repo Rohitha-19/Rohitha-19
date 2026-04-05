@@ -7,7 +7,7 @@
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/rohitha-kumar-v06) <br/>
 - Mail
-<br /> [<img width="30" height="30" src="https://img.icons8.com/ios/50/gmail-new.png" alt="gmail-new"/>](mailto:rohithakumar271@gmail.com) <br/>
+<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rohithakumar271@gmail.com) <br/>
 
 
 ### Proficient in
