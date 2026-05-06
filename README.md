@@ -68,14 +68,6 @@ Showcasing my skills, projects, and achievements.
 
 ---
 
-### 📈 GitHub Stats
-
-![Rohitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitha-19&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitha-19&layout=compact&theme=radical)
-
----
-
 ### ✨ Quote
 
 > “Consistency beats talent when talent doesn’t work hard.”
