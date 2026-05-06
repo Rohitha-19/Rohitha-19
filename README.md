@@ -70,9 +70,9 @@ Showcasing my skills, projects, and achievements.
 
 ### 📈 GitHub Stats
 
-![Rohitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitha-19&show_icons=true&theme=radical)
+![Rohitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitha-19&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitha-19&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitha-19&layout=compact&theme=radical)
 
 ---
 
