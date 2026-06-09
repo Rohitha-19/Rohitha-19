@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Rohitha V
-### 💻 2nd Year CSE Student @ Mailam Engineering College
+### 💻 Pre-Final Year CSE Student @ Mailam Engineering College
 
 🔭 Here's my **Portfolio**  
 👉 https://rohitha-19.github.io/portfolio_website/
