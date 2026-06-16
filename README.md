@@ -49,19 +49,6 @@
 
 ---
 
-### 📌 Projects
-
-🔹 **Gas Leakage Detection System**  
-Built using Arduino UNO, Gas Sensor & GSM module to detect and alert gas leaks.
-
-🔹 **Book Ordering Website**  
-A multi-page web application using HTML, CSS & JavaScript.
-
-🔹 **Personal Portfolio Website**  
-Showcasing my skills, projects, and achievements.
-
----
-
 ### 📊 Coding Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Jf168fKfdM?ext=contest&theme=dark)
