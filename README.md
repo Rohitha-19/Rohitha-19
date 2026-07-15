@@ -55,10 +55,4 @@
 
 ---
 
-### ✨ Quote
-
-> “Consistency beats talent when talent doesn’t work hard.”
-
----
-
 ⭐ From [rohitha-19](https://github.com/rohitha-19)
