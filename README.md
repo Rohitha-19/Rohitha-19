@@ -53,8 +53,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Jf168fKfdM?ext=contest&theme=dark)
 
-![GeeksForGeeks Stats](https://www.geeksforgeeks.org/profile/rohithaksn71?tab=activity&theme=dark)
-
+[![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/rohithaksn71)](https://www.geeksforgeeks.org/user/rohithaksn71/)
 ---
 
 ⭐ From [rohitha-19](https://github.com/rohitha-19)
