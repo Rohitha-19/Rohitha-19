@@ -17,6 +17,9 @@
 #### Email
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithakumar271@gmail.com)
 
+(#)
+<img src="https://komarev.com/ghpvc/?username=sr-mithraa&label=Profile+Views&color=22D3EE&style=for-the-badge" />
+
 ---
 
 ### 🚀 Proficient in
