@@ -8,6 +8,7 @@
 🎯 Aspiring Software Engineer | Passionate about Tech & Innovation  
 
 <img src="https://komarev.com/ghpvc/?username=Rohitha-19&label=Profile+Views&color=22D3EE&style=for-the-badge" />
+
 ---
 
 ### 🌐 Connect with me
