@@ -7,6 +7,7 @@
 🌱 I’m currently learning **DSA, Problem Solving & Building Projects**  
 🎯 Aspiring Software Engineer | Passionate about Tech & Innovation  
 
+<img src="https://komarev.com/ghpvc/?username=Rohitha-19&label=Profile+Views&color=22D3EE&style=for-the-badge" />
 ---
 
 ### 🌐 Connect with me
@@ -16,8 +17,6 @@
 
 #### Email
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithakumar271@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Rohitha-19&label=Profile+Views&color=22D3EE&style=for-the-badge" />
 
 ---
 
