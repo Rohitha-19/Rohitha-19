@@ -7,8 +7,6 @@
 🌱 I’m currently learning **DSA, Problem Solving & Building Projects**  
 🎯 Aspiring Software Engineer | Passionate about Tech & Innovation  
 
-<img src="https://komarev.com/ghpvc/?username=Rohitha-19&label=Profile+Views&color=22D3EE&style=for-the-badge" />
-
 ---
 
 ### 🌐 Connect with me
@@ -53,8 +51,12 @@
 
 ### 📊 Coding Stats
 
+## 🧠 Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Jf168fKfdM?ext=contest&theme=dark)
 
+## 🧠 GeeksforGeeks
+
+[![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/https://www.geeksforgeeks.org/profile/rohithaksn71)](https://www.geeksforgeeks.org/profile/https://www.geeksforgeeks.org/profile/rohithaksn71)
 ---
 
 ⭐ From [rohitha-19](https://github.com/rohitha-19)
