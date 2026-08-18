@@ -55,10 +55,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Jf168fKfdM?ext=contest&theme=dark)
 
 ## 🧠 GeeksforGeeks
+[![GeeksforGeeks Stats](https://coding-cards.vercel.app/api/gfg-stats?userName=rohithaksn71\&action=ProfileCard)](https://www.geeksforgeeks.org/profile/rohithaksn71)
 
-## 🧠 GeeksforGeeks Stats
-
-[![GeeksforGeeks Stats](https://coding-cards.vercel.app/api/gfg-stats?userName=[YOUR_GFG_USERNAME](https://www.geeksforgeeks.org/profile/rohithaksn71)&action=ProfileCard)](https://www.geeksforgeeks.org/profile/[YOUR_GFG_USERNAME](https://www.geeksforgeeks.org/profile/rohithaksn71))
 ---
 
 ⭐ From [rohitha-19](https://github.com/rohitha-19)
