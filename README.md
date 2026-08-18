@@ -55,7 +55,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Jf168fKfdM?ext=contest&theme=dark)
 
 ## 🧠 GeeksforGeeks
-[![GeeksforGeeks Stats](https://coding-cards.vercel.app/api/gfg-stats?userName=rohithaksn71\&action=ProfileCard)](https://www.geeksforgeeks.org/profile/rohithaksn71)
+[![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/rohithaksn71)](https://www.geeksforgeeks.org/profile/rohithaksn71)
 
 ---
 
