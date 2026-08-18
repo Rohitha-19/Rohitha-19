@@ -56,7 +56,7 @@
 
 ## 🧠 GeeksforGeeks
 
-[![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/https://www.geeksforgeeks.org/profile/rohithaksn71)](https://www.geeksforgeeks.org/profile/https://www.geeksforgeeks.org/profile/rohithaksn71)
+[![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/)](https://www.geeksforgeeks.org/profile/https://www.geeksforgeeks.org/profile/rohithaksn71)
 ---
 
 ⭐ From [rohitha-19](https://github.com/rohitha-19)
