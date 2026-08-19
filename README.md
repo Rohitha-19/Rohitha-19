@@ -2,7 +2,7 @@
 ### 💻 Pre-Final Year CSE Student @ Mailam Engineering College
 
 🔭 Here's my **Portfolio**  
-👉 https://rohitha-19.github.io/portfolio_website/
+👉 https://rohitha-19.github.io/Portfolio_Sem5/
 
 🌱 I’m currently learning **DSA, Problem Solving & Building Projects**  
 🎯 Aspiring Software Engineer | Passionate about Tech & Innovation  
